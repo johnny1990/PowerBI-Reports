@@ -68,5 +68,7 @@
     <None Include="Reports\Northwind_Complex_Report.pbix" />
     <None Include="Reports\WorldWideImporters_Report.pbix" />
     <None Include="Reports\NORTHWIND_ORDERS.pbix" />
+    <None Include="Reports\Excel_Report.pbix" />
+    <None Include="Scripts\Financial Sample.xlsx" />
   </ItemGroup>
 </Project>
