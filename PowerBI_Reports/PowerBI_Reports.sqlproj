@@ -64,6 +64,7 @@
     <Build Include="Scripts\WorldWideImportersOrdersScript.sql" />
     <Build Include="Scripts\NORTHWIND_ORDERS.sql" />
     <Build Include="Scripts\NORTHWIND_PRODUCTS.sql" />
+    <Build Include="Scripts\WorldWideImporters_ComplexQueryReport_WWI_Query.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Reports\Northwind_Complex_Report.pbix" />
@@ -72,5 +73,6 @@
     <None Include="Reports\Excel_Report.pbix" />
     <None Include="Scripts\Financial Sample.xlsx" />
     <None Include="Reports\NORTHWIND_PRODUCTS.pbix" />
+    <None Include="Reports\WorldWideImporters_ComplexQueryReport.pbix" />
   </ItemGroup>
 </Project>
