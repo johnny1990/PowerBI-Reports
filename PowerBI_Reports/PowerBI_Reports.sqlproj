@@ -66,6 +66,7 @@
     <Build Include="Scripts\NORTHWIND_PRODUCTS.sql" />
     <Build Include="Scripts\WorldWideImporters_ComplexQueryReport_WWI_Query.sql" />
     <Build Include="Scripts\NORTWIND_REPORT.sql" />
+    <Build Include="Scripts\BikeStoreExamplesReport.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Reports\Northwind_Complex_Report.pbix" />
@@ -76,5 +77,6 @@
     <None Include="Reports\NORTHWIND_PRODUCTS.pbix" />
     <None Include="Reports\WorldWideImporters_ComplexQueryReport.pbix" />
     <None Include="Reports\NORTHWIND_REPORT.pbix" />
+    <None Include="Reports\BikeStore_Report.pbix" />
   </ItemGroup>
 </Project>
